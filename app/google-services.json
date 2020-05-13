@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "324688024780",
+    "firebase_url": "https://chatee-6ca8a.firebaseio.com",
+    "project_id": "chatee-6ca8a",
+    "storage_bucket": "chatee-6ca8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324688024780:android:02fc8d90d726c73fb49e69",
+        "android_client_info": {
+          "package_name": "com.kimoliang.chatee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324688024780-t7k9ef0mb2nttem63q25q2m6kla58vsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kimoliang.chatee",
+            "certificate_hash": "686a661d68e828eab98f3807bd518d6986148779"
+          }
+        },
+        {
+          "client_id": "324688024780-ftjdtbt98v5nvat99utdlrmdbkaml8v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRmlNGkUjFNAALtuU35P5El7R4c3zqGJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324688024780-ftjdtbt98v5nvat99utdlrmdbkaml8v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
